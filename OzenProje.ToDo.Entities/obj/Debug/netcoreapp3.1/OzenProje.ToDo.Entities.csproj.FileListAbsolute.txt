@@ -1,0 +1,9 @@
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\bin\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.deps.json
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\bin\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.dll
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\bin\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.pdb
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.csprojAssemblyReference.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.AssemblyInfo.cs
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.dll
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.Entities\obj\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.pdb

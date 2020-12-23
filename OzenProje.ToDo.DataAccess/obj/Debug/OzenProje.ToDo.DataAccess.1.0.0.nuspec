@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OzenProje.ToDo.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>OzenProje.ToDo.DataAccess</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="OzenProje.ToDo.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="5.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\OzenProje.ToDo.DataAccess.runtimeconfig.json" target="lib\netcoreapp3.1\OzenProje.ToDo.DataAccess.runtimeconfig.json" />
+    <file src="C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\OzenProje.ToDo.DataAccess.dll" target="lib\netcoreapp3.1\OzenProje.ToDo.DataAccess.dll" />
+  </files>
+</package>

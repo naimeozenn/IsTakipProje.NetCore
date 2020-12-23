@@ -1,0 +1,12 @@
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\bin\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.deps.json
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\bin\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.dll
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\bin\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.pdb
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\bin\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.dll
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\bin\Debug\netcoreapp3.1\OzenProje.ToDo.Entities.pdb
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.csprojAssemblyReference.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.AssemblyInfoInputs.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.AssemblyInfo.cs
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.csproj.CopyComplete
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.dll
+C:\Users\Naime\Desktop\ToDo\OzenProje.ToDo.DTO\obj\Debug\netcoreapp3.1\OzenProje.ToDo.DTO.pdb
